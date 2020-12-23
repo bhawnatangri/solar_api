@@ -1,0 +1,31 @@
+{
+    "local": {
+        "username": "blueoak",
+        "password":  "rcuh#ZL1xFgm61zr",
+        "database": "solar_api",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "development": {
+        "username": "blueoak",
+        "password":  "rcuh#ZL1xFgm61zr",
+        "database": "solar_api",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "blueoak",
+        "password":  "rcuh#ZL1xFgm61zr",
+        "database": "sola_api",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "production": {
+
+    "username": "blueoak",
+    "password":  "rcuh#ZL1xFgm61zr",
+    "database": "solar_api",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+    }
+}
