@@ -8,7 +8,7 @@ CONFIG.port = process.env.PORT || '8000';
 CONFIG.db_dialect = process.env.DB_DIALECT || 'mysql';
 CONFIG.db_host = process.env.DB_HOST || '127.0.0.1';
 CONFIG.db_port = process.env.DB_PORT || '3306';
-CONFIG.db_name ='solar_api';
+CONFIG.db_name ='solar';
 CONFIG.db_user = process.env.DB_USER || 'blueoak';
 CONFIG.db_password = process.env.DB_PASSWORD || 'rcuh#ZL1xFgm61zr';
 
