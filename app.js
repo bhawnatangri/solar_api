@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 const path=require('path');
 //const port=process.env.PORT || 8000;
-app.listen(process.env.PORT || 8000, () => {
+app.listen(process.env.PORT || 7000, () => {
     console.log(`Server started on port ${process.env.PORT}`);
 });
 //Log Env 
